@@ -88,4 +88,21 @@ git push origin intern/<YOUR-USERNAME>
 
 Open click [here](https://github.com/Tech-Tomatoes/demo-github)
 
-as you see pop up above link and create pull request with ttle and description i will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section.
+as you see pop up above link and create pull request with title and description
+required -
+
+- reviewer - `amantiwari1`
+- Assignees - add yourself
+- Labels - `good first issue`
+
+create it in button
+
+go back to issue which you have created
+
+- Linked pull requests - add which you have to created pull request
+
+i will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section.
+
+---
+
+# Congratulations Completed Exercise - Happy hacking! :) 🎉🎉
