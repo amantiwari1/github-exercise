@@ -28,13 +28,13 @@ require -
 create `branch` which allow you to create pull request after push
 
 ```shell
-git branch intern/<YOUR-USERNAME>
+git branch csi/<YOUR-USERNAME>
 ```
 
 go to branch (checkout) which you have created that
 
 ```shell
-git checkout intern/<YOUR-USERNAME>
+git checkout csi/<YOUR-USERNAME>
 ```
 
 or
@@ -42,7 +42,7 @@ or
 you can do create branch and go to branch (checkout) at the same time using
 
 ```
-git checkout -b intern/<YOUR-USERNAME>
+git checkout -b csi/<YOUR-USERNAME>
 ```
 
 ### Second, add your profile information
@@ -83,7 +83,7 @@ git commit -m "I created md file called `<YOUR-USERNAME>.md`"
 finally, push code to github repo in gituhb org
 
 ```
-git push origin intern/<YOUR-USERNAME>
+git push origin csi/<YOUR-USERNAME>
 ```
 
 Open click [here](https://github.com/amantiwari1/github-exercise)
