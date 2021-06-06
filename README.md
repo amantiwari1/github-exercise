@@ -10,10 +10,10 @@ before start issue and exercise make sure installed required software
 ## Clone it here
 
 ```shell
-git clone https://github.com/Tech-Tomatoes/demo-github.git
+git clone https://github.com/amantiwari1/github-exercise.git
 ```
 
-before start exercise make sure create issue click [here](https://github.com/Tech-Tomatoes/demo-github/issues)
+before start exercise make sure create issue click [here](https://github.com/amantiwari1/github-exercise/issues)
 require -
 
 - create new issue that what will you do in title and description.(Note - your choice to write - title and short description)
@@ -86,7 +86,7 @@ finally, push code to github repo in gituhb org
 git push origin intern/<YOUR-USERNAME>
 ```
 
-Open click [here](https://github.com/Tech-Tomatoes/demo-github)
+Open click [here](https://github.com/amantiwari1/github-exercise)
 
 as you see pop up above link and create pull request with title and description
 required -
